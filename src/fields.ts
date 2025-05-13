@@ -28,10 +28,6 @@ const categorizedExceptions: OptionGroup[] = [
             { name: "674ecff8494b6fe12cf73134", label: "Be My Guest Card" },
         ],
     },
-    {
-        label: "Cash Management",
-        options: [{ name: "674ecfba494b6fe12cf73110", label: "Cash Pull Under $20" }],
-    },
 ];
 const mappedMathOperator: Record<string, string> = {
     "=": "equals",
